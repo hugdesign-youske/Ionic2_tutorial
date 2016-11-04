@@ -8,4 +8,4 @@
 
 ### Omit –v2 if you’d like to use Ionic 1. To run your app, `cd` into the directory that was created and then run the `ionic serve` command to test your app right in the browser!
 
-`$ cd cutePuppyPics`  `$ ionic serve`
+`$ cd cutePuppyPics  $ ionic serve`
