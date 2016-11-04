@@ -13,7 +13,7 @@
 
 
 # Ionic 2 Tutorial
-[Ionic 2 Tutorial]:http://ionicframework.com/docs/v2/getting-started/tutorial/
+[Ionic 2 Tutorial]: http://ionicframework.com/docs/v2/getting-started/tutorial/ "Ionic 2 Tutorial"
 
 ###Starting a New Ionic 2 App
 
