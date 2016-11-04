@@ -20,7 +20,10 @@
 `$ ionic start MyIonic2Project tutorial --v2`
 
 ###Starting a New Ionic 2 App
-
-```ruby:qiita.rb
-puts 'The best way to log and share programmers knowledge.'
+```rb
+num = 0
+while num < 2 do
+   print("num = ", num)
+end
+print("End")
 ```
